@@ -8,9 +8,9 @@ Hi, I'm **Angel Vacacela**, an enthusiastic and driven IT Support Specialist wit
 My IT journey began at **Eyeclick by Beam**, a high-volume remote support role where I was part of a 3-person team providing nationwide support for proprietary gaming devices (Raspberry Pi & Dell OptiPlex-based), used by brands like **McDonald’s** and **Burger King**. This experience instilled in me the **work ethic and discipline** needed to handle complex, fast-paced environments.
 
 I later joined the **New Rochelle City School District** as a **Junior Network Specialist**, supporting:
-- 1 High School  
+- 2 High School  
 - 2 Middle Schools  
-- 5 Elementary Schools  
+- 6 Elementary Schools  
 - Over 400 Staff  
 
 I provided full-spectrum IT support and worked closely with the district's Network Engineer to support **Aruba wireless infrastructure**, **ClearPass authentication**, and manage **10,000+ Chromebooks**.
@@ -39,7 +39,7 @@ This repo isn’t just a portfolio — it’s a **log of discipline**.
 I use it to:
 - 📓 Document real-world IT support scenarios and technical wins  
 - 🧠 Reflect on areas I want to grow: networking, security, sysadmin  
-- 📈 Build momentum toward **higher-paying, higher-responsibility infrastructure roles**
+- 📈 Build momentum toward higher-responsibility infrastructure roles**
 
 I’ve learned that it’s easier to document your wins in the moment than to try and remember them months later. That’s why I write them down here — so I can **track my growth** and **stay sharp** for the next opportunity.
 
